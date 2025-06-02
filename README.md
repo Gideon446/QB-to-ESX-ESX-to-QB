@@ -1,8 +1,5 @@
 # QB-to-ESX-ESX-to-QB
 
-## Discord
-Join our Discord community: [https://discord.com/invite/qApkS3ypxs](https://discord.com/invite/qApkS3ypxs)
-
 ---
 
 ## QB and ESX Basics
